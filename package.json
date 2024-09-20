@@ -1,0 +1,31 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "El mejor curso de node por 0$",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfigueroa24/CURSO-NODE.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "carlosfigueroa"
+  ],
+  "author": "Carlos Julian Figueroa Higuera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfigueroa24/CURSO-NODE/issues"
+  },
+  "homepage": "https://github.com/jfigueroa24/CURSO-NODE#readme",
+  "dependencies": {
+    "picocolors": "1.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
