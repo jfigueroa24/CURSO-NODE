@@ -16,6 +16,10 @@
     "nodejs",
     "carlosfigueroa"
   ],
+  "prettier": {
+    "singleQuote": true,
+    "semi": true
+  },
   "author": "Carlos Julian Figueroa Higuera",
   "license": "ISC",
   "bugs": {

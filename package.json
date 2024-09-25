@@ -1,0 +1,16 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "Este curso se realiza con el fin de tener conocimientos y bases para realizar el proyecto de grado de una manera excelente",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
